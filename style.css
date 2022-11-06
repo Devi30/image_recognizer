@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.number_objects{
+    color: white;
+}
+#camera{
+    border: 2px dashed black;
+    width:350px;
+    height: 300px;
+}
+h3{
+    width: 80%;
+    font-size: 25px;
+    background-color:coral;
+}
+#btn1{
+    background-color: coral;
+}
